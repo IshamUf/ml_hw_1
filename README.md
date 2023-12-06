@@ -10,7 +10,7 @@
   * car_data_test2.json - Созданный тестовый json файл.
   * test.csv - CSV файл для тестирования post(/predict_price/)
   * send_json.py - python код для отправки post запросов с json на fast api сервис.
-  * send_scv.py(ошибка в названии) - python код для отправки post запросов с CSV на fast api сервис.
+  * send_csv.py - python код для отправки post запросов с CSV на fast api сервис.
 
 Что было сделано?
 В HW1_Regression_with_inference ноутбуке была проведена работа по подготовке данных и обучению моделей. 
