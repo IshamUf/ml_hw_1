@@ -1,16 +1,16 @@
 # ml_hw_1
 Выполнение первой домашней работы по машинному обучению.
-Описание файлов:
-HW1_Regression_with_inference.ipynb - ноутбук со всеми проведёнными экспериментами (output’ы ячеек сохранены)
-fast_api.py - файл с реализацией fast api сервиса.
-model.pkl - сохраненая обученная модель (ridge_model)
-scaler.pkl - сохраненая обученный StandardScaler()
-columns.pkl - Слобцы необходимые для нормализации данных.
-create_json.py - Код для создания json файла.
-car_data_test2.json - Созданный тестовый json файл.
-test.csv - SCV файл для тестирования post(/predict_price/)
-send_json.py - python код для отправки post запросов с json на fast api сервис.
-send_scv.py - python код для отправки post запросов с SCV на fast api сервис.
+*Описание файлов:
+  *HW1_Regression_with_inference.ipynb - ноутбук со всеми проведёнными экспериментами (output’ы ячеек сохранены)
+  *fast_api.py - файл с реализацией fast api сервиса.
+  *model.pkl - сохраненая обученная модель (ridge_model)
+  *scaler.pkl - сохраненая обученный StandardScaler()
+  *columns.pkl - Слобцы необходимые для нормализации данных.
+  *create_json.py - Код для создания json файла.
+  *car_data_test2.json - Созданный тестовый json файл.
+  *test.csv - SCV файл для тестирования post(/predict_price/)
+  *send_json.py - python код для отправки post запросов с json на fast api сервис.
+  *send_scv.py - python код для отправки post запросов с SCV на fast api сервис.
 
 
 что было сделано
